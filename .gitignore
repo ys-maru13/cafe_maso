@@ -1,0 +1,18 @@
+# Local credentials and agent settings
+.env
+.env.*
+!.env.example
+.aws/
+.agents/
+.codex/
+
+# Operating system files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Dependencies, generated files, and logs
+node_modules/
+dist/
+build/
+*.log
